@@ -25,3 +25,14 @@ if __name__ == "__main__":
     print("Delta c: {}".format(delta_c_B))
     print("Delta b: {}".format(delta_b))
     print("Shadow prices: {}".format(shadow_prices)) 
+
+
+
+    """
+    Output:
+
+    LP is unlimited.
+    """
+
+
+    
