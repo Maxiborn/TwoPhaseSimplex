@@ -24,3 +24,24 @@ if __name__ == "__main__":
     print("Delta c: {}".format(delta_c_B))
     print("Delta b: {}".format(delta_b))
     print("Shadow prices: {}".format(shadow_prices)) 
+
+
+    """
+    Output:
+
+
+
+    Results:
+
+    z: -70.0
+    Indices: [2 4 3 1]
+    x_B: [ 7. 17.]
+
+    Sensitivity:
+
+    Reduced costs: [0. 5.]
+    Delta c: [(-inf, 5.0), (-inf, 1.6666666666666667)]
+    Delta b: [(-7.0, inf), (-17.0, inf)]
+    Shadow prices: [-13.062971218311393, -0.0]
+    """
+    
