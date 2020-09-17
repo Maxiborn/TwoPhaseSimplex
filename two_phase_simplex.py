@@ -236,3 +236,4 @@ class TwoPhaseSimplex:
 
         return z, b_hat, indices, delta_b, delta_c_B, reduced_costs, shadow_prices
 
+
